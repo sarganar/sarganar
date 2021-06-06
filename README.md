@@ -3,7 +3,8 @@ Mi nombre es Sebastian Argañaraz y este es mi repositorio personal. Tengo aloja
 
 Por ejemplo:
 
-## [https://github.com/sarganar/ip-address-tracker Frontend Mentor - IP Address Tracker]
+## Frontend Mentor - IP Address Tracker
+[https://github.com/sarganar/ip-address-tracker sarganar/ip-address-tracker]
 Muestra datos de tu IP actual, incluyendo ubicacion en un mapa.
 Utilizo JS Vanilla, la API de ipify.org y el motor LeafletJS para el mapa
 
