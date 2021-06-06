@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola! 👋
+Mi nombre es Sebastian Argañaraz y este es mi repositorio personal. Tengo alojado aquí algunos proyectos en los que trabajé.
+
+Por ejemplo:
+
+
+
 
 <!--
 **sarganar/sarganar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
