@@ -8,7 +8,7 @@ Por ejemplo:
 ## ✔️ Proyecto CMYK FrontendCafe
 [🔗 /frontendcafe/cmyk-sunrise](https://github.com/frontendcafe/cmyk-sunrise)
 
-[🔗 app online](https://cmyksunrise.web.app/?page=home)
+[🔗 app online](https://cmyksunrise.web.app/)
 
 
 Fue un proyecto de práctica en equipo en el marco del programa CMYK 3.0 del [Frontend Café.](https://frontend.cafe/)
@@ -20,11 +20,15 @@ Utilizamos JS Vanilla y SASS+BEM. Implementamos un router y un pequeño motor de
 ## ✔️ Frontend Mentor - IP Address Tracker
 [🔗 sarganar/ip-address-tracker](https://github.com/sarganar/ip-address-tracker)
 
+[🔗 app online](https://sarganar.github.io/ip-address-tracker/)
+
 Muestra datos de tu IP actual, incluyendo ubicacion en un mapa.
 Utilizo ``JS Vanilla``, la API de ``ipify.org`` y el motor ``LeafletJS`` para el mapa.
 
 ## ✔️ Frontend Mentor - Launch countdown timer
 [🔗 sarganar/launch-countdown-timer](https://github.com/sarganar/launch-countdown-timer)
+
+[🔗 app online](https://sarganar.github.io/launch-countdown-timer/)
 
 Una cuenta regresiva estilo carteles flip-flap.
 Para este desafío utilizo ``JS Vanilla``, y CSS.
@@ -32,12 +36,16 @@ Para este desafío utilizo ``JS Vanilla``, y CSS.
 ## ✔️ Frontend Mentor - Pricing component
 [🔗 sarganar/pricing-cards](https://github.com/sarganar/pricing-cards)
 
+[🔗 app online](https://sarganar.github.io/pricing-cards/)
+
 Un pricing page layout, utilizando JS y CSS.
 
-## ✔️ Frontend Mentor - Pricing component
+## ✔️ Frontend Mentor - REST Countries API
 [🔗 sarganar/rest-countries-api](https://github.com/sarganar/rest-countries-api)
 
-Muestra banderas en un card grid. Incluye un buscador y un flitro por region.
+[🔗 app online](https://sarganar.github.io/rest-countries-api/)
+
+Muestra banderas en un card grid. Incluye un buscador y un filtro por región.
 
 Utilizo JS, CSS y la API de [restcountries](https://restcountries.eu/)
 
