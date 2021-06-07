@@ -3,6 +3,20 @@ Mi nombre es Sebastian Argañaraz y este es mi repositorio personal. Tengo aloja
 
 Por ejemplo:
 
+(ok, el primero de la lista no está en mi repositorio)
+
+## Proyecto CMYK FrontendCafe
+[🔗 /frontendcafe/cmyk-sunrise](https://github.com/frontendcafe/cmyk-sunrise)
+
+[🔗 app online](https://cmyksunrise.web.app/?page=home)
+
+
+Fue un proyecto de práctica en equipo en el marco del programa CMYK 3.0 del [Frontend Café.](https://frontend.cafe/)
+
+Colaboré en el desarrollo de la aplicación, partiendo de la idea propuesta por Frontend Café y un mockup inicial.
+
+Utilizamos JS Vanilla y SASS+BEM. Implementamos un router y un pequeño motor de renderizado de vistas.
+
 ## Frontend Mentor - IP Address Tracker
 [🔗 sarganar/ip-address-tracker](https://github.com/sarganar/ip-address-tracker)
 
