@@ -5,7 +5,7 @@ Por ejemplo:
 
 (ok, el primero de la lista no está en mi repositorio)
 
-## Proyecto CMYK FrontendCafe
+## ✔️Proyecto CMYK FrontendCafe
 [🔗 /frontendcafe/cmyk-sunrise](https://github.com/frontendcafe/cmyk-sunrise)
 
 [🔗 app online](https://cmyksunrise.web.app/?page=home)
@@ -17,13 +17,13 @@ Colaboré en el desarrollo de la aplicación, partiendo de la idea propuesta por
 
 Utilizamos JS Vanilla y SASS+BEM. Implementamos un router y un pequeño motor de renderizado de vistas.
 
-## Frontend Mentor - IP Address Tracker
+## ✔️Frontend Mentor - IP Address Tracker
 [🔗 sarganar/ip-address-tracker](https://github.com/sarganar/ip-address-tracker)
 
 Muestra datos de tu IP actual, incluyendo ubicacion en un mapa.
 Utilizo ``JS Vanilla``, la API de ``ipify.org`` y el motor ``LeafletJS`` para el mapa.
 
-## Frontend Mentor - Launch countdown timer
+## ✔️Frontend Mentor - Launch countdown timer
 [🔗 sarganar/launch-countdown-timer](https://github.com/sarganar/launch-countdown-timer)
 
 Una cuenta regresiva estilo carteles flip-flap.
